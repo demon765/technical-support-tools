@@ -52,7 +52,7 @@ This repository contains a collection of diagnostic scripts and automation tools
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/technical-support-tools.git](https://github.com/YOUR_USERNAME/technical-support-tools.git)
+   git clone [https://github.com/demon765/technical-support-tools.git](https://github.com/demon765/technical-support-tools.git)
    cd technical-support-tools
 
 ```
